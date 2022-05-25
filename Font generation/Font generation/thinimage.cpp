@@ -1,0 +1,1 @@
+#include "thinimage.h"
